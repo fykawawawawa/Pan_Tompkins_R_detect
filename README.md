@@ -8,5 +8,5 @@
 
 ### Acknowledgments  
   The initial R-wave detection logic was adapted from: \
-  [🔗 Pan-Tompkins-QRS-Detection](https://github.com/antimattercorrade/Pan_Tompkins_QRS_Detection.git
-Acknowledgments)(by @antimattercorrade)
+  https://github.com/antimattercorrade/Pan_Tompkins_QRS_Detection.git(by @antimattercorrade)\
+  -- Fix bugs in _def adjust_thresholds()_
